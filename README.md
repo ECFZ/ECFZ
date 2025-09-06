@@ -1,16 +1,18 @@
-## Hi there 👋
+<img width="1536" height="862" alt="ChatGPT Image Sep 6, 2025, 03_14_14 PM" src="https://github.com/user-attachments/assets/4ede1bd4-2521-461f-8328-87b80bc52148" />
 
-<!--
-**ECFZ/ECFZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>About me</h1>
 
-Here are some ideas to get you started:
+I am ECFZ, a professional C programming language developer with extensive expertise in designing and implementing efficient, reliable, 
+and performance-driven programs. My specialization lies in low-level programming, system-level design, and memory management, with a 
+strong focus on delivering optimized and robust solutions. With deep technical knowledge of C, I am proficient in developing programs
+that interact closely with hardware and require precise control over system resources. My professional approach emphasizes accuracy, 
+efficiency, and high-quality standards in every project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Static Badge](https://img.shields.io/badge/C%20plus%20plus%20-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=auto&color=black) 
+![Static Badge](https://img.shields.io/badge/THE%20C%20PROGRAMMING%20LANGUAGE%20-blue?style=for-the-badge&logo=C&logoColor=white&logoSize=auto&color=black)
+![Static Badge](https://img.shields.io/badge/FORTRAN-blue?style=for-the-badge&logo=FORTRAN&logoColor=white&logoSize=auto&color=black)
+![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=white&logoSize=auto&color=black)
+![Static Badge](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&color=black)
+![Static Badge](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto&color=black)
+![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white&logoSize=auto&color=black)
+
