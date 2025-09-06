@@ -18,6 +18,6 @@ efficiency, and high-quality standards in every project.
 ![Static Badge](https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=white&logoSize=auto&color=black)
 ![Static Badge](https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=white&logoSize=auto&color=black)
 ![Static Badge](https://img.shields.io/badge/Apache-black?style=for-the-badge&logo=Apache&logoColor=white&logoSize=auto&color=black)
-![Static Badge](https://img.shields.io/badge/Mercury%20Mail%20Transport%20System-black?style=for-the-badge&logo=Mercury%20Mail%20Transport&logoColor=white&logoSize=auto&color=black)
+![Static Badge](https://img.shields.io/badge/Mercury%20Mail%20Transport-black?style=for-the-badge&logo=Mercury%20Mail%20Transport&logoColor=white&logoSize=auto&color=black)
 ![Static Badge](https://img.shields.io/badge/Filezilla-black?style=for-the-badge&logo=Filezilla&logoColor=white&logoSize=auto&color=black)
 ![Static Badge](https://img.shields.io/badge/Apache%20Tomcat%C2%AE-black?style=for-the-badge&logo=Apache%20Tomcat&logoColor=white&logoSize=auto&color=black)
